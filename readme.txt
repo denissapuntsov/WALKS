@@ -10,3 +10,5 @@ all spatial relations are dynamically tracked — each change in a symbol’s po
 
 •••
 inspired by aio by nikita bugaev
+
+demo: https://youtu.be/mk5nDmH1Nm4
